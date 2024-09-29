@@ -2676,5 +2676,5 @@
                 <surefireArgLine>-Xmx${build.jvmsize} --illegal-access=permit --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/java.io=ALL-UNNAMED --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.base=ALL-UNNAMED</surefireArgLine>
             </properties>
         </profile>
-    </profiles>
-</project>
+    </profiles> 
+
